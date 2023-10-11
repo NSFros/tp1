@@ -1,0 +1,170 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: rgb(63, 69, 74); 
+    display: flex; 
+    color: aliceblue;
+      
+}
+
+.uno {
+    color: aliceblue;
+}
+
+.dos {
+    color: rgb(141, 140, 140);
+}
+
+.tres{
+    color: rgb(141, 140, 140);
+}
+
+.cuatro{
+    color: rgb(141, 140, 140);
+}
+
+.cinco{
+    color: chartreuse;
+}
+
+main{
+    position: relative;
+}
+
+.logo {
+    width: 10%;
+}
+
+.inicio{
+    margin-right: 20%;
+}
+
+ul {
+    display: flex;
+    
+}
+
+li {
+    list-style: none;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+footer {
+    background-color: rgb(0, 86, 139);
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 4%;
+}
+
+.textoArriba{
+    position: absolute;
+    top: 10%;
+    left: 55%;
+    color: aliceblue;
+}
+
+.imagenesprog {
+    width: 228;
+    height: 221;
+}
+
+.cuartobloq {
+    display: flex;
+    background-color: rgb(63, 69, 74);
+    color: aliceblue;
+}
+
+.doslineas {
+    text-align: center;
+}
+
+.unalinea {
+    text-align: center;
+}
+
+.fonditouno {
+    background-color: rgb(237, 200, 14);
+    
+}
+
+.fonditodos {
+    background-color: rgb(10, 194, 194);
+    color: aliceblue;
+    
+}
+
+.fonditotres {
+    background-color: rgb(237, 200, 14);
+}
+
+.fonditocuatro {
+    background-color: rgb(10, 194, 194);
+    color: aliceblue;
+}
+
+.fonditocinco {
+    background-color: rgb(63, 69, 74);
+    color: aliceblue;
+}
+
+.fonditoseis {
+    background-color: brown;
+    color: aliceblue;
+}
+
+.enlaceuno{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.enlacedos{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.enlacetres{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.enlacecuatro{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.enlacecinco{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.enlaceseis{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.enlacesiete{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.carruno{
+    background-color: rgb(50,50,50);
+    background-blend-mode: soft-light;
+}
+
+input{
+    width: 31%;
+}
+
+textarea{
+    width: 63%;
+}
+
+a{
+    padding: 40px;
+}
